@@ -1,3 +1,7 @@
+body {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
 #location-1 {
   background-color: rgb(135, 146, 198);
 }
@@ -12,14 +16,15 @@
 
 .location iframe {
   width: 100%;
-  height: 400px;
+  height: 300px;
 }
 
 .location textarea {
   width: 100%;
-  height: 200px;
+  height: 150px;
 }
 
 #move {
-    font-size: medium;
+  font-weight: bold;
+  font-size: medium;
 }
