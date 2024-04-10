@@ -1,0 +1,25 @@
+#location-1 {
+  background-color: rgb(135, 146, 198);
+}
+
+#location-2 {
+  background-color: rgb(134, 171, 114);
+}
+
+.location {
+  padding: 20px;
+}
+
+.location iframe {
+  width: 100%;
+  height: 400px;
+}
+
+.location textarea {
+  width: 100%;
+  height: 200px;
+}
+
+#move {
+    font-size: medium;
+}
